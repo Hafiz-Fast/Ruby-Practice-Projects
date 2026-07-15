@@ -1,0 +1,70 @@
+Initial Library
+
+BOOKS
+Total Books: 3
+Title : Ruby Basics
+Author: Yukihiro Matsumoto
+Status: Available
+Title : Harry Potter
+Author: J.K. Rowling
+Status: Available
+Title : The Hobbit
+Author: J.R.R. Tolkien
+Status: Available
+
+Arham borrows Ruby Basics
+Ruby Basics has been borrowed.
+
+Arham borrows Harry Potter
+Harry Potter has been borrowed.
+
+Ali tries to borrow Ruby Basics
+Book is not available.
+
+
+Books borrowed by Arham
+Title : Ruby Basics
+Author: Yukihiro Matsumoto
+Status: Borrowed
+Title : Harry Potter
+Author: J.K. Rowling
+Status: Borrowed
+
+Arham returns Ruby Basics
+Ruby Basics has been returned.
+
+Ali borrows Ruby Basics
+Ruby Basics has been borrowed.
+
+
+BOOKS
+Total Books: 3
+Title : Ruby Basics
+Author: Yukihiro Matsumoto
+Status: Borrowed
+Title : Harry Potter
+Author: J.K. Rowling
+Status: Borrowed
+Title : The Hobbit
+Author: J.R.R. Tolkien
+Status: Available
+
+
+MEMBERS
+Total Members: 2
+Member: Arham
+Books Borrowed: 1
+Member: Ali
+Books Borrowed: 1
+
+
+Books borrowed by Arham
+Title : Harry Potter
+Author: J.K. Rowling
+Status: Borrowed
+
+
+Books borrowed by Ali
+Title : Ruby Basics
+Author: Yukihiro Matsumoto
+Status: Borrowed
